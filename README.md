@@ -1,4 +1,4 @@
-# Flex-Layout-Exercises---IT-Academy
+# Flex-Layout-Exercises - IT-Academy Barcelona
 
 A layout that have to work on both desktop and mobile and tablet.
 The technologies used are HTML and CSS.
@@ -6,15 +6,15 @@ The technologies used are HTML and CSS.
 [Live Site](https://css-layout-exercise.netlify.app/)
 
 
-Desktop View:
+## Desktop View:
 
 ![Alt text](./img/desktop.png?raw=true "Layout")
 
-Tablet View:
+## Tablet View:
 
 ![Alt text](./img/tablet.png?raw=true "Layout")
 
-Mobile View:
+## Mobile View:
 
 ![Alt text](./img/mobile.png?raw=true "Layout")
 
